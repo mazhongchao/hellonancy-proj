@@ -6,8 +6,8 @@
 [![3NxXVI.md.jpg](https://s2.ax1x.com/2020/02/26/3NxXVI.md.jpg)](https://imgchr.com/i/3NxXVI)
 
 ## 技术栈
+* JavaScript (JQuery) 
 * PHP
-* JavaScript (JQuery)
 * Redis
 
 ## 问题反馈
